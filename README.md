@@ -23,7 +23,12 @@ This is where I actually analyze the match data. **This Github repo contains thi
 
 I engineer intra-match features that are associated with positive performance. I train a binary classifier that has peak accuracy of ~84%. Included here is the analysis using a Logistic Regression model, which is the current production model.
 
+<p align="center">
+<img src="https://github.com/clin-projects/LoLwinner/blob/master/LoLwinner/LoLwinner_acc.png" height="400">
+</p>
+
 The repo does not contain the additional analysis that was performed using Random Forest and Support Vector Machine classifiers (with randomized search to optimize hyperparameters). It is noted that the Logistic Regression and Random Forest models had similar performance, but Logistic Regression was ultimately chosen for its notably faster predictive speed, which allows the web-app to make low-latency predictions.
+
 
 ## LoLwinner frontend
 
