@@ -1,6 +1,6 @@
 # LoLwinner
 
-[LoLwinner](http://lolwinner.chaneylin.com/) is a web-app to help improve live betting returns by predicting match outcomes for the popular eSports video game League of Legends. It is estimated that online wagers on eSports this year alone will be ~$6B [[1]](https://www.thelines.com/wp-content/uploads/2018/03/Esports-and-Gambling.pdf). 
+[LoLwinner](http://lolwinner.chaneylin.com/) is a web-app that helps improve live betting returns by predicting match outcomes for the popular eSports video game League of Legends. It is estimated that online wagers on eSports this year alone will be ~$6B [[1]](https://www.thelines.com/wp-content/uploads/2018/03/Esports-and-Gambling.pdf). 
 
 This is a project that I worked on during my fellowship at Insight Data Science.
 
