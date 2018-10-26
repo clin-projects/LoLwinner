@@ -26,20 +26,20 @@ This is where I actually analyze the match data. This github repo contains this 
 On the website, users can look up specific matches. It will dynamically pull match data and apply our precomputed model to analyze it.
 
 1. User requests a match to be analyzed
-    * If previously requested, the cached results are loaded and returned.
-    1. Load match data from Riot (this is cached and reused)
-    3. Analyze the match using our precomputed model
-    4. Store the results
-    5. Return the results
+   - If previously requested, the cached results are loaded and returned.
+2. Load match data from Riot (this is cached and reused)
+3. Analyze the match using our precomputed model
+4. Store the results
+5. Return the results
 
 
 ## References
 ### Tools Used
 
-    * Python
-    * Postgres
-    * [scikit-learn](http://scikit-learn.org)
-    * AWS
-    * Flask
-    * Bootstrap
+- Python
+- Postgres
+- [scikit-learn](http://scikit-learn.org)
+- AWS
+- Flask
+- Bootstrap
 
